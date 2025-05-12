@@ -47,11 +47,11 @@ const websiteContent = {
     "large-subheader": "Enhance your driveway or parking lot with our professional sealcoating.",
 
         //---services---
-    "service1": "Line Striping",
+    "service1": "Concrete Sealing",
     "service1desc": "About service 1",
     "service2": "Crack Sealing",
     "service2desc": "About service 2",
-    "service3": "Concrete Sealing",
+    "service3": "Line Striping",
     "service3desc": "About service 3",
         //---why choose us---
     "wcu1": "Experience",
