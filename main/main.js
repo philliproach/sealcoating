@@ -26,7 +26,7 @@ const websiteContent = {
     },
         //INDEX AND ABOUT
    "bottom-large-header": "Professional Sealcoating",
-   "bottom-large-subheader": "Professional Sealcoating Services in Harrison County.",
+   "bottom-large-subheader": "Professional Sealcoating Services in Harrison County and surrounding counties.",
   
 //ABOUT
    "about-tagline": "About Us",
