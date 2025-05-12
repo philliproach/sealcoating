@@ -5,8 +5,8 @@ const websiteContent = {
     "company-phone": "(123) 456-7890",
     "company-email": "example@example.com",
         //COMPANY INFO
-    "company-name": "TEMPLATE",
-    "copyright-company-name": "Company Name",
+    "company-name": "The Driveway Man",
+    "copyright-company-name": "The Driveway Man",
     "company-footer-about": "About the company / business for footer",
     "copyright-year": "2025",
         //SOCIAL LINKS
@@ -25,41 +25,41 @@ const websiteContent = {
         },
     },
         //INDEX AND ABOUT
-   "bottom-large-header": "Hero Section Header",
-   "bottom-large-subheader": "Hero Section Subheader",
+   "bottom-large-header": "Professional Sealcoating",
+   "bottom-large-subheader": "Professional Sealcoating Services in Harrison County.",
   
 //ABOUT
-   "about-tagline": "ABOUT PAGE",
+   "about-tagline": "About Us",
    "about-the-business": "Paragraph about the business goes here.",
-   "about-top-header": "Professional website designer and builder.",
-   "about-top-subheader": "We are dedicated to providing high-quality websites.",
+   "about-top-header": "Professional Sealcoating",
+   "about-top-subheader": "Professional Sealcoating Services in Harrison County.",
 
 //CONTACT
-    "contact-tagline": "CONTACT PAGE",
+    "contact-tagline": "Contact Us",
     "contact-owner-name": "John Doe",
     "contact-company-phone": "(123) 456-7890",
     "contact-company-email": "example@example.com",
     
 //INDEX
         //PAGE INFO
-    "index-tagline": "INDEX PAGE",
-    "large-header": "Professional Website Builders",
-    "large-subheader": "Enhance your business with a sleek website design.",
+    "index-tagline": "The Driveway Man",
+    "large-header": "Professional Sealcoating",
+    "large-subheader": "Enhance your driveways with our professional sealcoating.",
 
         //---services---
-    "service1": "Service 1",
+    "service1": "Line Striping",
     "service1desc": "About service 1",
-    "service2": "Service 2",
+    "service2": "Crack Sealing",
     "service2desc": "About service 2",
-    "service3": "Service 3",
+    "service3": "Concrete Sealing",
     "service3desc": "About service 3",
         //---why choose us---
     "wcu1": "Experience",
-    "wcu1desc": "Over 3 years of experience programming and designing websites.",
-    "wcu2": "Quality Design",
-    "wcu2desc": "Our websites offer sleek designs focusing on easy use and navigation.",
-    "wcu3": "Custom Building",
-    "wcu3desc": "We offer fully custom websites. ",
+    "wcu1desc": "Over 3 years of experience sealcoating",
+    "wcu2": "Quality Sealcoating",
+    "wcu2desc": "We offer quality sealcoating.",
+    "wcu3": "Experienced Team",
+    "wcu3desc": "Our team has the experience for professional sealcoating.",
     "wcu4": "Timely Service",
     "wcu4desc": "On-time project completion.",
 
