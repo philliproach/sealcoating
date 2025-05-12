@@ -44,7 +44,7 @@ const websiteContent = {
         //PAGE INFO
     "index-tagline": "The Driveway Man",
     "large-header": "Professional Sealcoating",
-    "large-subheader": "Enhance your driveways with our professional sealcoating.",
+    "large-subheader": "Enhance your driveway or parking lot with our professional sealcoating.",
 
         //---services---
     "service1": "Line Striping",
